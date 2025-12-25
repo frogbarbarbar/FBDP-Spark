@@ -1,0 +1,19 @@
+# ===== Spark / Hadoop =====
+*.log
+*.out
+
+# =====  VSCode =====
+.idea/
+.vscode/
+*.iml
+
+# =====  =====
+data/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Scala =====
+.metals/
+.bloop/
